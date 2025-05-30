@@ -14,7 +14,7 @@ Press CTRL + D
 Then press CTRL + ALT + F2/Top Right Arrow
 Login as Chonos
 and type in:
-sudo crossystem dev_boot_usb=1 dev_boot_signed_only=0
+`sudo crossystem dev_boot_usb=1 dev_boot_signed_only=0`
 
 And then you can boot into externel storage with CTRL + U when you turn on the chromebook
 
