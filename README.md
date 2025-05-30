@@ -1,5 +1,6 @@
-# How-to-Install-Linux-Distro-on-Arm-Chromebook
 _Credits: https://wiki.postmarketos.org/wiki/Category:ChromeOS, https://velvet-os.github.io/chromebooks/installation/basic-installation.html_
+# What is the point of Armor?
+Armor is a Personal Project of mine that aims to help out Arm Compatiablity on Chromebooks, since the Chrultrabook and MrChromebox Projects don't support Arm this project aims to bridge that gap, I am not that tech smart to code a firmware or drivers for Arm Chromebooks so right now I am trying to bring awareness and try to bridge sources together to make a guide of sorts.
 # Supported Distros (Not very many :L) I found
 Ubuntu / Debian : https://github.com/hexdump0815/linux-mainline-on-arm-chromebooks
 
