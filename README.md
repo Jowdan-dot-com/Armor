@@ -6,6 +6,7 @@ Arch: https://github.com/altreact/archbk?tab=readme-ov-file _Script that that sh
 Cadmium: https://github.com/Maccraft123/Cadmium
 Postmarket OS: https://wiki.postmarketos.org/wiki/Category:ChromeOS
 
+# Enabling Dev Mode
 Make sure Developer Mode is enabled if not here is how you enable it. (FYI it will clear off all data on the device so make sure everything is backed up)
 
 Press ESC + Refresh + Power
