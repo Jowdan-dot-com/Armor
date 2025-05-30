@@ -4,7 +4,6 @@ Armor is a Personal Project of mine that aims to help out Arm Compatiablity on C
 # Supported Distros (Not very many :L) I found
 Ubuntu / Debian : https://github.com/hexdump0815/linux-mainline-on-arm-chromebooks
 
-Cadmium
 Cadmium Specific Instructions : https://github.com/Maccraft123/Cadmium
 
 Postmarket OS: https://wiki.postmarketos.org/wiki/Category:ChromeOS
