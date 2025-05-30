@@ -23,14 +23,15 @@ Press CTRL + D
 
 (Also you'll have to press CTRL + D every time you turn on the chromebook with Chrome OS)
 
-Then press CTRL + ALT + F2/Top Right Arrow
+# Enabling USB Boot
+Press CTRL + ALT + F2/Top Right Arrow
 Login as Chronos
 and type in:
 `sudo crossystem dev_boot_usb=1 dev_boot_signed_only=0`
 
 And then you can boot into externel storage with CTRL + U when you turn on the chromebook
 
-Then boot into desired the linux distro and type in these commands to install into internel storage (I don't think this wouldn't be required for a distro like Arch since you copy into internel storage but I'll update it if I test it)
+# Installing onto Chromebook Internel Storage
 
 Root Access
 `Sudo -i`
