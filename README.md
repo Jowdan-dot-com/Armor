@@ -1,10 +1,21 @@
 # How-to-Install-Linux-Distro-on-Arm-Chromebook
 _Credits: https://wiki.postmarketos.org/wiki/Category:ChromeOS, https://velvet-os.github.io/chromebooks/installation/basic-installation.html_
 # Supported Distros (Not very many :L) I found
-Ubuntu: https://github.com/hexdump0815/linux-mainline-on-arm-chromebooks
-Arch: https://github.com/altreact/archbk?tab=readme-ov-file _Script that that should work_
+Ubuntu / Debian : https://github.com/hexdump0815/linux-mainline-on-arm-chromebooks
+
 Cadmium: https://github.com/Maccraft123/Cadmium
+
 Postmarket OS: https://wiki.postmarketos.org/wiki/Category:ChromeOS
+
+Two Ways to install Arch Linux
+
+Arch Install Script: https://github.com/altreact/archbk?tab=readme-ov-file
+
+Arch Arm: https://archlinuxarm.org/about/downloads
+
+Fedora Specific Install Instructions
+
+https://fedoraproject.org/wiki/Architectures/ARM/Chromebook
 
 # Enabling Dev Mode
 Make sure Developer Mode is enabled if not here is how you enable it. (FYI it will clear off all data on the device so make sure everything is backed up)
