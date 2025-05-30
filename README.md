@@ -93,7 +93,7 @@ Unmount everything
 https://wiki.postmarketos.org/wiki/Category:ChromeOS
 https://velvet-os.github.io/chromebooks/installation/basic-installation.html
 
-Huge thanks to everyone making this unsupported mess possible! It's awesome that there is at least some community around running other OS' on arm chromebooks it's not perfect but it sure hell is an beauty, but at least consider getting an 86_64 chromebook to try getting other OS' at some point.
+Huge thanks to everyone making this unsupported mess possible! It's awesome that there is at least some community around running other OS' on arm chromebooks it's not perfect but it sure as hell is an beauty, but at least consider getting an 86_64 chromebook to try getting other OS' at some point.
 
 Also check out https://velvet-os.github.io/postinst/readme.html to see what you should do next!
 
