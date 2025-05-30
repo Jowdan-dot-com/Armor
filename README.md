@@ -4,11 +4,17 @@ _Credits: https://wiki.postmarketos.org/wiki/Category:ChromeOS, https://velvet-o
 Make sure Developer Mode is enabled if not here is how you enable it. (FYI it will clear off all data on the device so make sure everything is backed up)
 
 Press ESC + Refresh + Power
+
 Press CTRL + D
+
 Press Enter
+
 Press CTRL + D
+
 Wait
+
 Press CTRL + D
+
 (Also you'll have to press CTRL + D every time you turn on the chromebook with Chrome OS)
 
 Then press CTRL + ALT + F2/Top Right Arrow
