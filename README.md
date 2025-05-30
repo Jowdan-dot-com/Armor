@@ -18,7 +18,7 @@ Press CTRL + D
 (Also you'll have to press CTRL + D every time you turn on the chromebook with Chrome OS)
 
 Then press CTRL + ALT + F2/Top Right Arrow
-Login as Chonos
+Login as Chronos
 and type in:
 `sudo crossystem dev_boot_usb=1 dev_boot_signed_only=0`
 
