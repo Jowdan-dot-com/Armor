@@ -28,7 +28,9 @@ Then boot into desired the linux distro and type in these commands to install in
 
 Root Access
 `Sudo -i`
-Find Internel Storage
+
+Find Internel S
+torage
 `lsblk`
 the internel storage is almost always mmcblk1, or mmcblk0 in this case we assume it is mmcblk0
 
