@@ -18,6 +18,13 @@ Fedora Specific Install Instructions
 
 https://fedoraproject.org/wiki/Architectures/ARM/Chromebook
 
+Gentoo Specific Instructions
+
+https://wiki.gentoo.org/wiki/ASUS_Chromebook_C201/Installing_Gentoo#Booting_the_installation_media
+
+Nix OS Specific Instructions
+https://github.com/thefloweringash/kevin-nix (Should work fine but it's made for the Samsung Chromebook Plus)
+
 # WARNING
 There is absolutely no support for drivers on arm devices by the Chrultrabook Community and Windows Support is reccommended to use UEFI Firmware by the MrChromebox Project which is also not supported by arm, but you may get lucky with installing windows onto a usb.
 
