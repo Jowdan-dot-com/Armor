@@ -28,7 +28,7 @@ https://github.com/thefloweringash/kevin-nix (Should work fine but it's made for
 # WARNING
 There is absolutely no support for drivers on arm devices by the Chrultrabook Community and Windows Support is reccommended to use UEFI Firmware by the MrChromebox Project which is also not supported by arm, but you may get lucky with installing windows onto a usb.
 
-Also some distros may have specific instructions to them which you can see above these are just general instructions for booting the Distro and copying the files.
+Also some distros may have specific instructions to them which you can see above these are just general instructions for booting the Distro.
 
 # Enabling Dev Mode
 Make sure Developer Mode is enabled if not here is how you enable it. (FYI it will clear off all data on the device so make sure everything is backed up)
@@ -55,7 +55,7 @@ and type in:
 
 And then you can boot into externel storage with CTRL + U when you turn on the chromebook
 
-# Installing onto Chromebook Internel Storage
+# Debian and Ubuntu Specific Instructions
 
 Root Access
 `Sudo -i`
