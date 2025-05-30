@@ -3,7 +3,8 @@ _Credits: https://wiki.postmarketos.org/wiki/Category:ChromeOS, https://velvet-o
 # Supported Distros (Not very many :L) I found
 Ubuntu / Debian : https://github.com/hexdump0815/linux-mainline-on-arm-chromebooks
 
-Cadmium: https://github.com/Maccraft123/Cadmium
+Cadmium is I THINK (Because I haven't tested it) like Gallium OS but for arm since it supports ARM Chromebooks
+Cadmium Specific Instructions : https://github.com/Maccraft123/Cadmium
 
 Postmarket OS: https://wiki.postmarketos.org/wiki/Category:ChromeOS
 
@@ -16,6 +17,11 @@ Arch Arm: https://archlinuxarm.org/about/downloads
 Fedora Specific Install Instructions
 
 https://fedoraproject.org/wiki/Architectures/ARM/Chromebook
+
+# WARNING
+There is absolutely no support for drivers on arm devices by the Chrultrabook Community and Windows Support is reccommended to use UEFI Firmware by the MrChromebox Project which is also not supported by arm, but you may get lucky with installing windows onto a usb.
+
+Also some distros may have specific instructions to them which you can see above these are just general instructions for booting the Distro and copying the files.
 
 # Enabling Dev Mode
 Make sure Developer Mode is enabled if not here is how you enable it. (FYI it will clear off all data on the device so make sure everything is backed up)
@@ -123,5 +129,3 @@ Huge thanks to everyone making this unsupported mess possible! It's awesome that
 
 Also check out https://velvet-os.github.io/postinst/readme.html to see what you should do next!
 
-# WARNING
-There is absolutely no support for drivers on arm devices by the Chrultrabook Community and Windows Support is reccommended to use UEFI Firmware by the MrChromebox Project which is also not supported by arm, but you may get lucky with installing windows onto a usb.
